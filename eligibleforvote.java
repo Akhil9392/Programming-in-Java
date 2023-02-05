@@ -19,4 +19,3 @@ if(age<18&&age>0)
 System.out.println("no.of years left to be eligible for vote:"+a);
 }
 }
-
